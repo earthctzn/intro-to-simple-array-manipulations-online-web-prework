@@ -1,3 +1,3 @@
-def using_push(array, "")
-  array.push("")
+def using_push(array, content)
+  array.push(content)
 end
