@@ -38,6 +38,6 @@ def using_flatten(array)
   array.flatten
 end
 
-def using_dell(array)
-  array.uniq
+def using_delete(array, int)
+  array.delete(int)
 end
