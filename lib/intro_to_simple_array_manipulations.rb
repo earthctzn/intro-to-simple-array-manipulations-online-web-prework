@@ -21,3 +21,6 @@ end
 def shift_with_args(array)
   array.pop(2)
 end
+
+def using_concat(array1, array2)
+  
